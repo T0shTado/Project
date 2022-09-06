@@ -1,5 +1,5 @@
-import icon from '../../assets/img/Notify-icon.svg'
-import './Sytles.css'
+import icon from '../../assets/img/Notify-icon.svg';
+import './Sytles.css';
 
 function NotifyButton() {
     return (
@@ -9,4 +9,4 @@ function NotifyButton() {
     )
 }
 
-export default NotifyButton
+export default NotifyButton;
